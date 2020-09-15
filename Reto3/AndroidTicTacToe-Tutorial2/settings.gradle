@@ -1,0 +1,2 @@
+rootProject.name='AndroidTicTacToe-Tutorial2'
+include ':app'
